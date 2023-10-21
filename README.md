@@ -11,7 +11,7 @@ Ce projet a été développé dans le cadre du module "Hacking éthique et foren
 ## Fonctionnement
 
 - Récupération d'un shellcode depuis un serveur web. (Utilisation de **winhttp**).
-- Convertion du string récupéré sur le serveur web en byte array.
+- Conversion du string récupéré sur le serveur web en byte array.
 - API Hashing des fonctions windows (NtOpenProcess, VirtualAllocEx, WriteProcessMemory, CreateRemoteThread).
 - Injection et exécution du payload dans un processus distant (`explorer.exe`).
 

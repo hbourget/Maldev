@@ -23,4 +23,4 @@ Ce projet a été développé dans le cadre du module "Hacking éthique et foren
 - cd `MalwareDev`
 - `make` (Penser à rouvrir un nouveau shell pour que le PATH se refresh)
 - Lancer un simple serveur web python à la racine du projet : `py -m http.server 80` 
-- Lancer le .exe générer par la commande `make`
+- Executer le .exe générer par la commande `make`
